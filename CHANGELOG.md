@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2023-12-07)
+
+
+### Features
+
+* 대시보드 ([#4](https://github.com/p-acid/easy-tax/issues/4)) ([ed66265](https://github.com/p-acid/easy-tax/commit/ed662658aed3d3db26e2a11d248affcaf98437f7))
+* 로그인 ([#2](https://github.com/p-acid/easy-tax/issues/2)) ([9660e2e](https://github.com/p-acid/easy-tax/commit/9660e2e55ab0b9880d7c2df5b7ba73fe3f3cac5a))
+
 ## [1.0.2](https://github.com/p-acid/next-app-router-template/compare/v1.0.1...v1.0.2) (2023-10-31)
 
 
